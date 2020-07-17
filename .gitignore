@@ -1,0 +1,6 @@
+Pods
+*.xcuserstate
+*.xcexplist
+Breakpoints_v2.xcbkptlist
+*.xcscheme
+xcschememanagement.plist
