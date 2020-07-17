@@ -1,0 +1,44 @@
+/* 
+  Localizable.strings
+  Planky
+
+  Created by CanvasM on 19/11/15.
+  Copyright (c) 2015 Neelesh Aggarwal. All rights reserved.
+*/
+
+
+// Start Analysis Screen
+"StartAnalysis0Photos"                          = "0 photos";
+"StartAnalysisHelloLabel"                       = "Hello";
+"StartAnalysisStartScanLabel"                   = "Start scan to see the magic";
+"StartAnalysisScanButtonTitle"                  = "Start Scan";
+
+// Sign Up screen       
+"SignUpViewTitle"                               = "Sign Up";
+"SignUpFirstName"                               = "First Name";
+"SignUpLastName"                                = "Last Name";
+"SignUpEmail"                                   = "Email";
+"SignUpPassword"                                = "Password";
+"SignUpRepeatPassword"                          = "Repeat Password";
+"SignUpButtonTitle"                             = "Sign Up";
+
+// Login Screen
+"LoginViewTitle"                                = "Sign In";
+"LoginEmail"                                    = "Email";
+"LoginPassword"                                 = "Password";
+"LoginButtonTitle"                              = "Login";
+
+// General
+"freeText"                                      = "Free";
+"nowLabel"                                      = "Now";
+
+// Home Screen
+"HomeDontWorryLabelTitle"                       = "Don't Worry";
+"HomeAnalyseLabelTitle"                         = "Analysing your device";
+"HomeBeforeLabelTitle"                          = "Before";
+"HomeAfterLabelTitle"                           = "After";
+"HomeFreeSpaceButtonTitle"                      = "Free Space";
+
+
+// Photo Gallery Screen
+"Upload Complete"                               = "Upload Complete";

@@ -1,0 +1,35 @@
+//
+//  Planky-Prefix.pch
+//  Planky
+//
+//  Created by CanvasM on 30/10/15.
+//  Copyright (c) 2015 Neelesh Aggarwal. All rights reserved.
+//
+
+#ifndef Planky_Planky_Prefix_pch
+#define Planky_Planky_Prefix_pch
+
+#import <Foundation/Foundation.h>
+#import <SystemConfiguration/SystemConfiguration.h>
+#import <CouchbaseLite/CouchbaseLite.h>
+
+#import "Constants.h"
+#import "UserDefaultHandler.h"
+#import "DataStore.h"
+#import "NSData+Base64.h"
+#import "CustomImageView.h"
+
+// API keys
+//#define AppKey          @"ldz2ypjk23vrmj0"
+#define AppKey          @"2uklx37pp83e146"                  // Client account
+
+//#define AppSecret       @"5g10s2tad8ajjt4"
+#define AppSecret       @"mihtgv0jyh36wdl"                  // Client account
+
+#define Host            @"http://52.4.60.212"
+
+#define UserEmailSettingsKey    @"UserEmailSettingsKey"
+#define UserByNameView          @"userByName"
+#define PhotoByIdView           @"photoByIdView"
+
+#endif
